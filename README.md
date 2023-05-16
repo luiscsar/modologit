@@ -1,1 +1,1 @@
-Meu primeiro arquivo git  reverte
+Meu primeiro arquivo git 
